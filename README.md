@@ -6,3 +6,6 @@
 
 - the original City of Chicago data can be found here, at the Data Portal: https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr
 
+IBMers can access the blog on the w3 IBM Watson Data Platform blog [here](https://w3-connections.ibm.com/blogs/2aebb2ff-a9d6-4523-a34a-dbc2c5e7d872/entry/Continuous_Learning_on_Watson_Data_Platform?lang=en_us)
+
+
