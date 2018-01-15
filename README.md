@@ -1,5 +1,6 @@
 # IBM Continuous Learning Blog Post Companion Materials
-Companion data and preprocessing notebook for the IBM WDP blog post. IBMers can access the blog on the w3 IBM Watson Data Platform blog [here](https://w3-connections.ibm.com/blogs/2aebb2ff-a9d6-4523-a34a-dbc2c5e7d872/entry/Continuous_Learning_on_Watson_Data_Platform?lang=en_us)
+Companion data and preprocessing notebook for the IBM WDP blog post. 
+IBMers can access the blog on the w3 IBM Watson Data Platform blog [here](https://w3-connections.ibm.com/blogs/2aebb2ff-a9d6-4523-a34a-dbc2c5e7d872/entry/Continuous_Learning_on_Watson_Data_Platform?lang=en_us). 
 
 
 - the `2017` data is in `buildings_data_17.csv`
