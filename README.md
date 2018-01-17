@@ -5,7 +5,7 @@ IBMers can access the internal blog on the w3 IBM Watson Data Platform blog [her
 
 - The `2017` data is in `buildings_data_17.csv`
 
-- You will have to preprocess the data in order for it to play nicely with the feedback tables. Because of this, I have taken a sample of the larger dataset and padded the `LATITUDE` and `LONGITUDE` fields to 6 decimal places. You can find these tweleve data sets zipped in `months` where we have preprocessed them already. 
+- You would otherwise need to preprocess the data in order for it to play nicely with the feedback tables. Because of this, I have taken a sample of the larger dataset and padded the `LATITUDE` and `LONGITUDE` fields to 6 decimal places. You can find these tweleve data sets zipped in `months` where we have preprocessed them already. 
 
 - The original City of Chicago data can be found here, at the Data Portal: https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr
 
